@@ -11,8 +11,8 @@
 	<title>Uncategorized &#8211; Pullz</title>
 	<atom:link href="/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
-	<description>Next level zipper pulls</description>
-	<lastBuildDate>Wed, 06 Dec 2023 20:30:24 +0000</lastBuildDate>
+	<description>Lavish thy zipper</description>
+	<lastBuildDate>Wed, 13 Dec 2023 02:06:27 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,33 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Cowhide</title>
+		<link>/cowhide/</link>
+					<comments>/cowhide/#respond</comments>
+		
+		<dc:creator><![CDATA[winstonford]]></dc:creator>
+		<pubDate>Wed, 13 Dec 2023 02:06:27 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">/?p=61</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image aligncenter size-full is-resized"><img fetchpriority="high" decoding="async" width="768" height="1024" src="/wp-content/uploads/2023/12/green@0.5x.png" alt="" class="wp-image-62" style="width:308px;height:auto" srcset="/wp-content/uploads/2023/12/green@0.5x.png 768w, /wp-content/uploads/2023/12/green@0.5x-225x300.png 225w" sizes="(max-width: 768px) 100vw, 768px" /></figure>
+
+
+<div class="ecsp ecsp-SingleProduct-v2 ecsp-Product ec-Product-611978394" itemtype="http://schema.org/Product" data-single-product-id="611978394">
+<div class="ecsp-title" itemprop="name" style="display:none;" content="Pullz Duffle 2"></div>
+<div customprop="addtobag"></div>
+</div>
+<p><script data-cfasync="false" type="text/javascript" src="https://api-e.lightspeed.app/script.js?88844049&#038;data_platform=singleproduct_v2" charset="utf-8"></script><script type="text/javascript">xProduct()</script></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/cowhide/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Hello world!</title>
 		<link>/hello-world/</link>
 					<comments>/hello-world/#comments</comments>
