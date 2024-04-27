@@ -8,7 +8,7 @@
 	>
 
 <channel>
-	<title>Pullz</title>
+	<title>Pullz.co</title>
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Lavish thy zipper</description>
@@ -18,11 +18,11 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<generator>https://wordpress.org/?v=6.5.2</generator>
 
 <image>
-	<url>/wp-content/uploads/2023/12/icon-p-pullz-512x512@0.5x-2-150x150.png</url>
-	<title>Pullz</title>
+	<url>/wp-content/uploads/2024/04/cropped-pullz-mark-snap-32x32.png</url>
+	<title>Pullz.co</title>
 	<link>/</link>
 	<width>32</width>
 	<height>32</height>
