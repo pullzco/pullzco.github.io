@@ -7,23 +7,23 @@
 	>
 <channel>
 	<title>
-	Comments for Pullz.co	</title>
+	Comments for pullzco	</title>
 	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
-	<description>Lavish thy zipper</description>
-	<lastBuildDate>Wed, 06 Dec 2023 20:30:24 +0000</lastBuildDate>
+	<description></description>
+	<lastBuildDate>Wed, 10 Jul 2024 20:12:03 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.5.2</generator>
+	<generator>https://wordpress.org/?v=6.6.1</generator>
 	<item>
 		<title>
 		Comment on Hello world! by A WordPress Commenter		</title>
 		<link>/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
-		<pubDate>Wed, 06 Dec 2023 20:30:24 +0000</pubDate>
+		<pubDate>Wed, 10 Jul 2024 20:12:03 +0000</pubDate>
 		<guid isPermaLink="false">/?p=1#comment-1</guid>
 
 					<description><![CDATA[Hi, this is a comment.
